@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To Do List - mk00756</string>
+    <string name="action_info">View Item</string>
+    <string name="action_main">View List</string>
+    <string name="title_activity_info">View extra information about a task</string>
+    <string name="txtViewChange_Text">Change</string>
+    <string name="txtNotes">Notes: </string>
+    <string name="txtCompleted">Status: </string>
+    <string name="txtTask">Task: </string>
+</resources>
